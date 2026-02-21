@@ -18,7 +18,6 @@ Custom WordPress website developed for Red Gram Spa, a premium wellness center o
 - "How It Works" 3-step process (Meeting, Treatment, Finalizing) for easy client understanding
 - Customer reviews/testimonials section with real feedback on relaxation and service quality
 - Gallery of spa ambiance, treatment rooms, and relaxing moments
-- Contact/Appointment section with phone (+91-7877910545), email (likely from contact form), address (Govardhan Vilas / Goverdhan Villas, Udaipur), and booking/inquiry form
 - Responsive, elegant design optimized for wellness visuals (mobile-first)
 - SEO-friendly for local Udaipur spa/massage searches
 
